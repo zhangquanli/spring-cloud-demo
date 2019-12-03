@@ -6,12 +6,12 @@
     <parent>
         <groupId>com.github.zhangquanli</groupId>
         <artifactId>spring-cloud-demo</artifactId>
-        <version>0.0.1</version>
+        <version>1.0.0</version>
     </parent>
 
     <groupId>com.github.zhangquanli</groupId>
     <artifactId>eureka-server</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <dependencies>
